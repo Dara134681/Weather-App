@@ -31,7 +31,7 @@ A simple and elegant weather application that provides real‑time weather updat
 ⚙️ Installation
 ```bash
 Clone the repository
-git clone https://github.com/yourusername/Weather-App.git
+https://github.com/Dara134681/Weather-App.git
 
 Navigate to the project folder
 cd Weather-App
